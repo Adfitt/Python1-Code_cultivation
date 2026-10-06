@@ -9,8 +9,8 @@ def main() -> None:
     print(f"Plant: {name}")
     print(f"Height: {height}")
     print(f"Age: {age}\n")
-    print(f"=== End of Program ===")
+    print("=== End of Program ===")
+
 
 if __name__ == "__main__":
     main()
-
